@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Laravel, React, Python and PHP.
 - 📫 How to reach me: saouianas@hotmail.fr
 
-<a href="https://medium.com/@saouianas" target = "_blank">
-  <img src="https://github.com/Anas-debug/profile-images/blob/main/icons8-medium-64.png"  style ="width:100px; height:100px" alt ="Medium_logo" />
-</a>
 <a href ="https://www.freecodecamp.org/mr-robot" target = "_blank">
   <img src="https://github.com/Anas-debug/profile-images/blob/main/icons8-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-64.png" style= "margin-left: 20px" />
 </a>
