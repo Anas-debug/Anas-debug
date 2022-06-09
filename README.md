@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
 **Anas-debug/Anas-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on an open source book called Laravel CookBook.
+- 👯 I’m looking to collaborate on open source projets.
+- 💬 Ask me about Laravel, React, Python and PHP.
+- 📫 How to reach me: saouianas@hotmail.fr
+
+<a href="https://medium.com/@saouianas" target = "_blank">
+  <img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt ="Medium_logo" />
+</a>
+ 
