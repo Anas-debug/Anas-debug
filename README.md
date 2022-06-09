@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: saouianas@hotmail.fr
 
 <a href="https://medium.com/@saouianas" target = "_blank">
-  <img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt ="Medium_logo" />
+  <img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg"  style ="width:100px; height:100px" alt ="Medium_logo" />
 </a>
  
